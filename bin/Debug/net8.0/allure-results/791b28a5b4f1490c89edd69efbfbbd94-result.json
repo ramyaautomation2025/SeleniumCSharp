@@ -1,0 +1,64 @@
+{
+  "uuid": "c3510217-1bfc-486f-b2c1-d0d1c50bde4b-tr-0-1001",
+  "historyId": "DotNetSelenium.Tests.Tests.ShoppingCartTest",
+  "fullName": "DotNetSelenium.Tests.Tests.ShoppingCartTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "RAMYALAP"
+    },
+    {
+      "name": "package",
+      "value": "DotNetSelenium.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ShoppingCartTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    }
+  ],
+  "links": [],
+  "name": "ShoppingCartTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "ShoppingCartTest"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ShoppingCartTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "b496c576e0ba430a8434bc422e3378b0-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1748790383265,
+      "stop": 1748790389321
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1748790383263,
+  "stop": 1748790389322
+}

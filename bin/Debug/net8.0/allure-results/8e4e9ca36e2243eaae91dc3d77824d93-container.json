@@ -1,0 +1,44 @@
+{
+  "uuid": "9b467ff7-cb0a-44ea-a6e0-f892878fa13e-tc-0-1000",
+  "name": "DotNetSelenium.Tests.Tests.ShoppingCartTest",
+  "children": [
+    "c3510217-1bfc-486f-b2c1-d0d1c50bde4b-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1748790389319,
+      "stop": 1748790389319
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1748790389319,
+      "stop": 1748790389319
+    }
+  ],
+  "links": [],
+  "start": 1748790383261,
+  "stop": 1748790389334
+}

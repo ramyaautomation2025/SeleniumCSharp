@@ -1,0 +1,10 @@
+{
+	"allure": {
+		"directory": "E:\\SeleniumDotNet\\DotNetSelenium\DotNetSelenium\\Allure-Results",
+		"links": [
+			"https://github.com/nunit/docs/issues?utf8=✓&q={issue}",
+			"https://example.org/{tms}",
+			"{link}"
+		]
+	}
+}
