@@ -26,6 +26,7 @@ namespace DotNetSelenium.Tests
             _driver = new ChromeDriver();
             _driver.Navigate().GoToUrl("https://www.saucedemo.com/");
             _driver.Manage().Window.Maximize();
+            //test
 
         }
 
